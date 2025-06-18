@@ -15,7 +15,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Ph.D. Candidate, The University of Tokyo<br>
-The Daiwa Ubiquitous Computing Research Building, 7 Chome-3-1 Hongo, Bunkyo City, Tokyo, Japan<br>
+[Koshizuka Laboratory](https://www.koshizuka-lab.org/) <br>
+The Daiwa Ubiquitous Computing Research Building<br>
+7 Chome-3-1 Hongo, Bunkyo City, Tokyo, Japan<br>
 xiaojieyang [at] g.ecc.u-tokyo.ac.jp<br>
 [Google scholar](https://scholar.google.com/citations?user=Eap1w88AAAAJ&hl=en) || [Github](https://github.com/YangXiaojie1998) <br>
 <br>
