@@ -21,7 +21,7 @@ The Daiwa Ubiquitous Computing Research Building<br>
 7 Chome-3-1 Hongo, Bunkyo City, Tokyo, Japan<br>
 xiaojieyang [at] g.ecc.u-tokyo.ac.jp<br>
 <a href="https://scholar.google.com/citations?user=Eap1w88AAAAJ&hl=en">Google scholar</a> ||
-<a href="https://github.com/YangXiaojie1998">Github</a> <br>
+<a href="https://github.com/YangXiaojie1998">Github</a> ||
 <a href="https://orcid.org/my-orcid?orcid=0009-0003-5549-9304">ORCID</a> <br>
 
 </div>
