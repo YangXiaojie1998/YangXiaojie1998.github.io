@@ -26,8 +26,9 @@ xiaojieyang [at] g.ecc.u-tokyo.ac.jp<br>
 
 </div>
 <br>
+<div style="text-align: justify;">
 I specialize in Spatial Information Science with Deep Learning, leveraging big data for innovative applications. My academic background in Geographic Information Science has fueled my ambition to integrate advanced computer science technologies to enhance spatial research capabilities. My Ph.D. thesis explores causality analysis using spatio-temporal data. Currently, I am interested in uncovering the potential of large language models to empower urban computing in various scenarios, such as trajectory generation, geo-related fake information detection, and more.
-
+</div>
 **Research interest:** urban computing, causal inference, LLMs, human mobility prediction
 
 
