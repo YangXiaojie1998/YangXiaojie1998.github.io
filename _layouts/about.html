@@ -8,9 +8,10 @@ layout: default
     {% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
       {% if page.profile.image %}
-      <img class="img-fluid z-depth-1" 
-     src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" 
-     style="transform: scale(1.8); transform-origin: top left;">
+      <img 
+        class="img-fluid"
+        src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}"
+        style="float: left; max-width: 150px; width: 40%; height: auto; margin-right: 20px; margin-bottom: 10px; border-radius: 8px;">
       {% endif %}
       {% if page.profile.address %}
         <div class="address">
