@@ -23,7 +23,7 @@ xiaojieyang [at] g.ecc.u-tokyo.ac.jp<br>
 <a href="https://scholar.google.com/citations?user=Eap1w88AAAAJ&hl=en">Google scholar</a> ||
 <a href="https://github.com/YangXiaojie1998">Github</a> ||
 <a href="https://orcid.org/my-orcid?orcid=0009-0003-5549-9304">ORCID</a> <br> ||
-<a href="[https://orcid.org/my-orcid?orcid=0009-0003-5549-9304](https://drive.google.com/file/d/1Ic5H2vv5a0-GYSjwUGKNAZy3gfH70Pdt/view?usp=sharing)">Resume</a> <br>
+<a href="https://drive.google.com/file/d/1Ic5H2vv5a0-GYSjwUGKNAZy3gfH70Pdt/view?usp=sharing">Resume</a> <br>
 
 </div>
 <br>
