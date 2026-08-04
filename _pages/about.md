@@ -15,15 +15,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 <div style="overflow: hidden;">
 
-Ph.D. Candidate, The University of Tokyo<br>
+Project Assistant Professor, The University of Tokyo<br>
 <a href="https://www.koshizuka-lab.org/">Koshizuka Laboratory</a> <br>
 The Daiwa Ubiquitous Computing Research Building<br>
 7 Chome-3-1 Hongo, Bunkyo City, Tokyo, Japan<br>
 xiaojieyang [at] g.ecc.u-tokyo.ac.jp<br>
 <a href="https://scholar.google.com/citations?user=Eap1w88AAAAJ&hl=en">Google scholar</a> ||
 <a href="https://github.com/YangXiaojie1998">Github</a> ||
-<a href="https://orcid.org/0009-0003-5549-9304">ORCID</a> <br> ||
-<a href="https://drive.google.com/file/d/1Ic5H2vv5a0-GYSjwUGKNAZy3gfH70Pdt/view?usp=sharing">Resume</a> <br>
+<a href="https://orcid.org/0009-0003-5549-9304">ORCID</a> ||
+<a href="https://drive.google.com/file/d/1Ic5H2vv5a0-GYSjwUGKNAZy3gfH70Pdt/view?usp=sharing">Resume</a><br>
 
 </div>
 <br>
