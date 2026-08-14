@@ -20,7 +20,6 @@ Project Assistant Professor, The University of Tokyo<br>
 The Daiwa Ubiquitous Computing Research Building<br>
 7 Chome-3-1 Hongo, Bunkyo City, Tokyo, Japan<br>
 xiaojieyang [at] g.ecc.u-tokyo.ac.jp<br>
-<a href="https://scholar.google.com/citations?user=Eap1w88AAAAJ&hl=en">Google scholar</a> ||
 <a href="https://github.com/YangXiaojie1998">Github</a> ||
 <a href="https://orcid.org/0009-0003-5549-9304">ORCID</a> ||
 <a href="https://drive.google.com/file/d/1Ic5H2vv5a0-GYSjwUGKNAZy3gfH70Pdt/view?usp=sharing">Resume</a><br>
@@ -28,6 +27,6 @@ xiaojieyang [at] g.ecc.u-tokyo.ac.jp<br>
 </div>
 <br>
 <div style="text-align: justify;">
-I specialize in Spatial Information Science with Deep Learning, leveraging big data for innovative applications. My academic background in Geographic Information Science has fueled my ambition to integrate advanced computer science technologies to enhance spatial research capabilities. My Ph.D. thesis explores causality analysis using spatio-temporal data. Currently, I am interested in uncovering the potential of large language models to empower urban computing in various scenarios, such as trajectory generation, geo-related fake information detection, and more.
+My research focuses on human mobility, urban transportation, and geospatial analysis. Building on my academic background in Geographic Information Science, I study travel behavior, transportation dynamics, public-event mobility, and urban resilience using large-scale spatiotemporal data. My work aims to support the planning and operation of safe, efficient, and sustainable urban transportation systems.
 </div>
-**Research interest:** urban computing, causal inference, LLMs, human mobility prediction
+**Research interest:** human mobility, urban transportation, geospatial analysis, urban resilience
